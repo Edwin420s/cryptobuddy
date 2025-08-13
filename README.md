@@ -27,4 +27,18 @@ The chatbot uses simple if-else logic to match user queries with cryptocurrency 
 3. Run the chatbot:
 ```bash
 python cryptobuddy.py"# cryptobuddy" 
+```
+```
+## How to Run CryptoBuddy Locally
+
+1. Clone the repo:  
+   `git clone https://github.com/Edwin420s/cryptobuddy.git`
+
+2. Navigate into the directory:  
+   `cd cryptobuddy`
+
+3. Run the chatbot:  
+   `python cryptobuddy.py`
+
+4. Chat with CryptoBuddy! Type 'exit' to quit.
 

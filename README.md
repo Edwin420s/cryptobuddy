@@ -1,6 +1,5 @@
 # CryptoBuddy - Cryptocurrency Recommendation Chatbot
 
-![CryptoBuddy Logo](https://i.imgur.com/JQhT9Gj.png) *(sample logo - replace with your own)*
 
 ## Overview
 CryptoBuddy is a simple AI chatbot that provides cryptocurrency investment recommendations based on:
@@ -28,3 +27,4 @@ The chatbot uses simple if-else logic to match user queries with cryptocurrency 
 3. Run the chatbot:
 ```bash
 python cryptobuddy.py"# cryptobuddy" 
+

@@ -42,3 +42,8 @@ python cryptobuddy.py"# cryptobuddy"
 
 4. Chat with CryptoBuddy! Type 'exit' to quit.
 
+```
+
+"This chatbot mimics basic AI decision-making by using predefined rules to analyze cryptocurrency attributes. It processes user queries through keyword matching, then applies logical filters to recommend coins based on sustainability, price trends, and market cap. While simple, it demonstrates how AI systems use data and rules to simulate informed decision-making processes."
+
+
